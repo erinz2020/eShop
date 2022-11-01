@@ -7,18 +7,22 @@
 
 Using vanilla JavaScript to mock the Amazon e-Commerce platform, implement browsing products page, ratings of products, adding to the shopping cart for checkout page.
 
-![Covid19-Tracker](https://github.com/erinz2020/pictures/blob/main/1.png)
+![eShop](https://github.com/erinz2020/pictures/blob/main/3.png)
 
 ## Home page
-The home page displays the item being browsed. Click the Add to Basket button to add the product to the shopping cart, and the total number of items in the basket will be displayed next to the shopping cart icon in the upper right corner of the page.
-
-## Rating of the product
-According to the rating of the product, the corresponding number of stars will be displayed on the page.
-
-![Covid19-Tracker](https://github.com/erinz2020/pictures/blob/main/2.png)
+The home page displays the item being browsed. Click the Add to Basket button to add the product to the shopping cart, and the total number of items in the basket will be displayed next to the shopping cart icon in the upper right corner of the page. According to the rating of the product, the corresponding number of stars will be displayed on the page.
 
 ## Basket page
 On the shopping cart checkout page, click the Remove from shopping cart button to remove the item from the shopping cart. The total amount of goods will be reduced accordingly.
+![eShop](https://github.com/erinz2020/pictures/blob/main/4.png)
+
+## Sign in page
+
+![eShop](https://github.com/erinz2020/pictures/blob/main/5.png)
+
+## Create a new user
+
+![eShop](https://github.com/erinz2020/pictures/blob/main/6.png)
 
 ## Building and running on localhost
 
