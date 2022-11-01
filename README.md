@@ -5,26 +5,20 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
-Real-time COVID-19 data updates for every country in the world, tracking cases, deaths, recoveries. React allowed us to implement the requirements quickly and to keep the code maintainable. We were able to use React hooks and context to allow all the components to interface and share the same data.
+Using vanilla JavaScript to mock the Amazon e-Commerce platform, implement browsing products page, ratings of products, adding to the shopping cart for checkout page.
 
 ![Covid19-Tracker](https://github.com/erinz2020/pictures/blob/main/1.png)
 
+## Home page
+The home page displays the item being browsed. Click the Add to Basket button to add the product to the shopping cart, and the total number of items in the basket will be displayed next to the shopping cart icon in the upper right corner of the page.
 
-## Product Overview
-This product displays the Covid-19 pandemic situation in various countries around the world in real time. There are 3 Infoboxes and a map on the left side of the page. By selecting a country from the drop-down menu, the infoBoxes and the map can display the distribution of the Covid-19 cases and the specific cases of each country.
-
-
-## InfoBox and Map components
-The infoBoxes component can display the active cases, recovered cases and deaths in that country using numeral to format the numbers. The map can also display the distribution of the epidemic around the world, with red circles showing the corresponding current active cases, green circles showing the number of recovered cases, and yellow circles showing the number of dead cases. we can change the type of displayed data by clicking on the infobox.
-
-
-## Table component
-This table component shows countries around the world ranked from highest to lowest number of outbreaks. In css implemented n:th of child to display adjacent rows in different colors for convinience.
+## Rating of the product
+According to the rating of the product, the corresponding number of stars will be displayed on the page.
 
 ![Covid19-Tracker](https://github.com/erinz2020/pictures/blob/main/2.png)
 
-## LineGraph component
-The LineGraph component visually shows the trend of the epidemic over several months. Clicking on the infoboxes on the left will also cause the graph to display the corresponding data.
+## Basket page
+On the shopping cart checkout page, click the Remove from shopping cart button to remove the item from the shopping cart. The total amount of goods will be reduced accordingly.
 
 ## Building and running on localhost
 
